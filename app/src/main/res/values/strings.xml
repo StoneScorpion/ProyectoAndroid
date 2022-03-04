@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="etBienvenida">Bienvenido</string>
+    <string name="etUsuario">Ingrese su Usuario</string>
+    <string name="etContraseña">Ingrese su Contraseña</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="etNombre">Francisco Iván Rodríguez Bonilla</string>
+    <string name="etUsuario1">Francisco</string>
+    <string name="tvTec"></string>
+    <string name="etBiografia">dasdad</string>
+    <string name="btnLlamar">Llamar</string>
+    <string name="btnWhats">WhatsApp</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnCompartir">Compartir</string>
+    <string name="btnInfo">Acerca de</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
